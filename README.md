@@ -10,20 +10,22 @@ npx stylelint "**/*.css" --fix   # <-- for the CSS linter
 CSS
 * Syntax & Units
 * [Selectors](https://github.com/musa-611-fall-2022/course-info/blob/main/resources/css-selectors.md)
-* Layouts
-  * Flexbox
-  * Grid
+* [Layouts](https://github.com/musa-611-fall-2022/course-info/blob/main/resources/css-structure.md)
 * Colors
-[Map tiles](https://github.com/musa-611-fall-2022/course-info/blob/main/resources/webmap-tiles.md)
-* Mapbox
 
+[Map tiles](https://github.com/musa-611-fall-2022/course-info/blob/main/resources/webmap-tiles.md)
+  * Mapbox
+
+
+## Other "Reading"
+
+* [Flexbox Froggy](http://flexboxfroggy.com/)
+* [Grid Garden](https://cssgridgarden.com/)
 
 ## Assignments
 
 * [Function exercises](https://github.com/musa-611-fall-2022/function-exercises) -- Complete by Oct 05
-* [DOM exercises](https://github.com/musa-611-fall-2022/dom-exercises) -- Complete by Oct 12
-* [Flexbox Froggy](http://flexboxfroggy.com/)
-* [Grid Garden](https://cssgridgarden.com/)
+* [DOM exercises](https://github.com/musa-611-fall-2022/dom-exercises) -- Complete by Oct 17
 
 ## Project
 
